@@ -1,9 +1,9 @@
 
-##   - Hi, I’m @Mateus1508
+##   Hi, I’m @Mateus1508
 
-- 🌱 I’m currently learning  Javascript and Node js;
+- 🌱 I’m currently learning  Javascript and Node js.
 
-- 💞️ I’m looking to  practice and observe projects around here;.
+- 💞️ I’m looking to  practice and observe projects around here.
 
 - 🗂 How to reach me 👉
   <a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
