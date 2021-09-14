@@ -1,7 +1,7 @@
 
 ##   Hi, I’m @Mateus1508
 
-- 🌱 I’m currently learning Node js.
+- 🌱 I’m currently learning C#.
 
 - 💞️ I’m looking to  practice and observe projects around here.
 
