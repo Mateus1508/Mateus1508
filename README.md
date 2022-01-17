@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning php.
 
-- 💞️ I’m looking to  practice and observe projects around here.
+- :mag_right: I’m looking to  practice and observe projects around here.
 
 - 👇 How to reach me
   
