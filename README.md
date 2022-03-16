@@ -1,7 +1,7 @@
 
 ##   Hi, I’m @Mateus1508
 
-- 🌱 I’m currently learning VueJS.
+- 🌱 I’m currently learning ReactJS.
 
 - :mag_right: I’m looking to  practice and observe projects around here.
 
