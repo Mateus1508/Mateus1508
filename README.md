@@ -9,9 +9,9 @@
   
 -  <a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact&langs_count=7&theme=dracula"/>
+<img style="background-color: #2F4F4F;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact&langs_count=7&theme=dracula"/>
 <br>
-<div style:"display: flex; background-color: #2F4F4F;" >
+<div style="display: flex; background-color: #2F4F4F;" >
  <img align="left" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="left" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
