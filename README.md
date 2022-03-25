@@ -22,5 +22,6 @@
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
 <!-- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> -->
+   <style>background-color: 	#2F4F4F;</style>
 <div/>
-  <style>background-color: 	#2F4F4F;</style>
+ 
