@@ -12,7 +12,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact&langs_count=7&theme=dracula"> 
 ---
 <br>
-## Conhecimentos nas tecnologias
+ **Conhecimentos nas tecnologias**
 
 <div>
  <img align="left" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
