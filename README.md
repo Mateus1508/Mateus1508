@@ -20,9 +20,10 @@
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 <!-- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> -->
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+ 
 <div/>
  
