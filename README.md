@@ -5,12 +5,12 @@
 
 - 👇 How to reach me
 
-- <a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+- <a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus1508&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact&langs_count=7&theme=vue"> 
 </div>
----
 
  <h2 align="center" >Tecnologias</h2>
 
@@ -20,11 +20,9 @@
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-<!-- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> -->
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
- 
-<div/>
+</div>
  
