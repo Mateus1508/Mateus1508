@@ -2,7 +2,8 @@
 #  Hi, I’m Mateus Belmonte
 
 <h4>🌱 I’m currently learning ReactJS!</h4>
-### Conect me on 👇🏾 <br> <a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+### Conect me on 👇🏾 
+<a href="https:https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus1508&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
