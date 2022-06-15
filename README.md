@@ -13,14 +13,14 @@
  <h2 align="center" >Tecnologies</h2>
 
 <div align="center" >
- <img align="left" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
- <img align="left" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- <img align="left" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+ <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
 </div>
  
