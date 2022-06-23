@@ -23,5 +23,5 @@
 </div>
 <h2 align="center">Contacts</h2>
 <div align="center">
-<a align="center" href="https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" _blank></a>
+<a align="center" href="https://www.linkedin.com/in/mateus-belmonte-64b6b11a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
