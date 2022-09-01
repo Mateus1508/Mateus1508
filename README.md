@@ -19,7 +19,12 @@
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
 </div>
 <h2 align="center">Contacts</h2>
 <div align="center">
