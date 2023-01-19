@@ -7,6 +7,7 @@
  
 <div align="center">
  <img align="center" alt="Mateus-stats" src="https://github-readme-stats.vercel.app/api?username=Mateus1508&show_icons=true&theme=radical">
+ <img align="center" alt="Mateus-HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact">
 </div>
 
  <h2 align="center" >Tecnologies</h2>
