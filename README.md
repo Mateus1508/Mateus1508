@@ -6,8 +6,7 @@
 
  
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateus1508)](https://github.com/mateus1508/github-readme-stats)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact&langs_count=7&theme=vue"> 
+<img height="180em" src=" https://github-readme-stats.vercel.app/api?username=mateus1508"> 
 </div>
 
  <h2 align="center" >Tecnologies</h2>
