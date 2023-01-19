@@ -5,7 +5,7 @@
 
 
  
-<div align="center">
+<div align="center" gap="5px">
  <img align="center" alt="Mateus-stats" src="https://github-readme-stats.vercel.app/api?username=Mateus1508&show_icons=true&theme=transparent">
  <img align="center" alt="Mateus-HTML" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus1508&layout=compact">
 </div>
