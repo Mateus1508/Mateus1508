@@ -24,6 +24,8 @@
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+ <img align="center" alt="Mateus-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg">
 </div>
 <h2 align="center">Contacts</h2>
 <div align="center">
