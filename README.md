@@ -27,7 +27,7 @@
  <img align="center" alt="Mateus-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="Mateus-dotnet" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg">
  <img align="center" alt="Mateus-typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
- <img align="center" alt="Mateus-sqlserver" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png">
+ <img align="center" alt="Mateus-sqlserver" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png">
  <img align="center" alt="Mateus-sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
  <img align="center" alt="Mateus-sqlserver" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg">
 </div>
