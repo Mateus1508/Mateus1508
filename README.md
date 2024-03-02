@@ -13,7 +13,6 @@
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Mateus-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
  <img align="center" alt="Mateus-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
- <img align="center" alt="Mateus-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
  <img align="center" alt="Mateus-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="Mateus-figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
  <img align="center" alt="Mateus-node" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
