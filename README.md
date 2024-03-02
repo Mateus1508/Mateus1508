@@ -1,17 +1,13 @@
 
 #  Hi, I’m Mateus Belmonte
 
-<h4 align="center">🌱 I’m currently learning Flutter!</h4>
-
-
- 
 <div align="center" gap="20px">
  <img align="center" alt="Mateus-stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateus1508&show_icons=true&theme=transparent">
  <img align="center" alt="Mateus-HTML" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateus1508&layout=compact">
 </div>
 
  <h2 align="center" >Tecnologies</h2>
-<div align="center" gap="5px" max-width="90%">
+<div align="center" gap="5px" max-width="90%" background-color="#023e8a">
  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
