@@ -7,7 +7,7 @@
 </div>
 
  <h2 align="center" >Tecnologies</h2>
-<div align="center" gap="5px" max-width="90%" background-color="#023e8a">
+<div align="center" style="gap=5px; max-width=90%; background-color=#023e8a;">
  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Mateus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
