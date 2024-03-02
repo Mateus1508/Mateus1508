@@ -2,7 +2,6 @@
 #  Hi, I’m Mateus Belmonte
 
 <div align="center" gap="20px">
- <img align="center" alt="Mateus-stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mateus1508&show_icons=true&theme=transparent">
  <img align="center" alt="Mateus-HTML" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mateus1508&layout=compact">
 </div>
 
